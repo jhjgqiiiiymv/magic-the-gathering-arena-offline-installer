@@ -32,6 +32,12 @@
 
 ---
 
+## 🎮 About the Game
+
+Magic: The Gathering Arena empowers you to discover your strategy, meet the planeswalkers, explore the multiverse, and battle friends around the world. Start playing for free, challenge your friends, unlock cards, and feel the magic of the original fantasy CCG!
+
+---
+
 ## ❌ Problem: Games are expensive and require internet
 
 - **High Cost** — Full-price games cost $60–70 at launch
@@ -89,10 +95,12 @@
 
 | **Component** | **Windows** | **macOS** |
 |---------------|-------------|-----------|
-| **OS** | Windows 10/11 (64-bit) | macOS 12 Monterey or later |
-| **RAM** | 8 GB+ | 8 GB+ |
-| **Storage** | 2 GB free | 2 GB free |
-| **Processor** | Intel i5 / AMD Ryzen 5 | Intel or Apple Silicon |
+| **OS** | Min:  / Rec: Windows 10 | macOS 10.12 (Sierra) |
+| **Processor** | Min: AMD Athlon 64 X2 Dual Core 5600+ or Equivalent / Rec: Intel Core2 Quad Q9300 @ 2.50GHz | 2.6 GHz Core i5 (I5-4278U) |
+| **Memory** | Min: 2 GB RAM / Rec: 4 GB RAM | 4 GB RAM |
+| **Graphics** | Min: GeForce GTX 8800 or Equivalent / Rec: GeForce GTX 560 | HD Graphics 5000 |
+| **Network** | Broadband Internet connection | Broadband Internet connection |
+| **OS *** | Windows 7 | Windows 7 |
 
 ---
 
